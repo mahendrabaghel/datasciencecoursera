@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575856683385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3404438838",
+    "id" : "2B3C2576",
+    "lastKnownWriteTime" : 1575857833,
+    "last_content_update" : 1575857833313,
+    "path" : "~/Desktop/rprog_data_ProgAssignment3-data/rprog_assignment3.R",
+    "project_path" : "rprog_assignment3.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

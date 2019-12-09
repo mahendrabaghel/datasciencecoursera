@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575857836921.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "853101568",
+    "id" : "C9CDD844",
+    "lastKnownWriteTime" : 1575857844,
+    "last_content_update" : 1575857844535,
+    "path" : "~/Desktop/rprog_data_ProgAssignment3-data/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575857775576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3584380704",
+    "id" : "AD357BD7",
+    "lastKnownWriteTime" : 1575858118,
+    "last_content_update" : 1575858118721,
+    "path" : "~/Desktop/rprog_data_ProgAssignment3-data/rankall.R",
+    "project_path" : "rankall.R",
+    "properties" : {
+        "cursorPosition" : "33,4",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
